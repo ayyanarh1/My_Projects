@@ -60,6 +60,15 @@ including geospatial analysis, machine learning, deep learning and SQL.
 | Live app | ✅ |
 
 ---
+## 📁 Projects
+
+| Project | Repo | Live App |
+|---------|------|---------|
+| 🌍 School Flood Risk Analysis | [GitHub](https://github.com/ayyanarh1/tamil-nadu-school-flood-risk) | [Live App](https://tamil-nadu-school-flood-risk-ewc2sj7fhrvvtkwlpw5jzf.streamlit.app/) |
+| 🤖 Machine Learning projects | [GitHub](https://github.com/ayyanarh1/My_Projects/tree/main/machine-learning) | — |
+| 🧠 Deep Learning projects | [GitHub](https://github.com/ayyanarh1/My_Projects/tree/main/deep-learning) | — |
+| 🗄️ SQL projects | [GitHub](https://github.com/ayyanarh1/My_Projects/tree/main/sql) | — |
+
 
 ## 🛠 Core Skills
 
